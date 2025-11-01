@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently enrolled in **B.Sc. Data Science**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ML , Deep Learning**
 
-- 💬 Ask me about **Python, SQL, Data Science.**
+- 💬 Ask me about **Python, Machine learning, Data Science.**
 
 <h3 align="left"> <b> Connect with me:</b> </h3>
 <p align="left">
