@@ -72,10 +72,12 @@ I love building projects with **Python, SQL, Data Analysis, and Machine Learning
 | TensorFlow | PyTorch | Flask | React Query |
 
 ---
-
+<!--
 ## 🔭 Projects
 
 Here are a few repositories I’ve built:
+
+--->
 
 ### 🕹️ Featured
 - **[Python-programming](https://github.com/suneetpaul/Python-programming)** — Python scripts & exercises  
