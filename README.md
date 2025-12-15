@@ -51,16 +51,18 @@ Here are a few repositories I’ve built:
 ---
 
 ## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:SUNEETVIRDI@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/suneet-paul-singh-a39630305)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/iamsuneetpaul)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/suneet-paul-singh-a39630305)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/iamsuneetpaul)
+
 
 ---
 
 ## 🚀 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suneetpaul&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=suneetpaul&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
