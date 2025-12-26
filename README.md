@@ -96,6 +96,11 @@ Here are a few repositories I’ve built:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/iamsuneetpaul)  
 
 
+---
+
+# 📈 GitHub Contribution Grapgh
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=suneetpaul&theme=react-dark&hide_border=true&area=true)
 
 ---
 
